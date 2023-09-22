@@ -1,10 +1,10 @@
 Hi 👋 My name is Geoffrey Mwangi
 ================================
 
-React Developer
+Front-End Developer
 ---------------
 
-I've been learning to code for 2 years after switching careers. I started with HTML, CSS, Javascript, Tailwind, and React.
+I've been learning to code for 2 years after switching careers. I started with HTML, CSS, Javascript, Tailwind, React, and Flutter.
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [gmwangi3174@gmail.com](mailto:gmwangi3174@gmail.com)
